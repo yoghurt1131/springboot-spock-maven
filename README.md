@@ -1,0 +1,1 @@
+A Spring Boot sample project that running spock tests with Maven.
